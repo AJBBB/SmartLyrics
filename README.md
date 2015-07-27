@@ -2,7 +2,7 @@
 
 Requires: Textstat
 
-Install textstat with ""pip install textstat""
+Install textstat with ''pip install textstat''
 
 Compares two songs lyrics and gives their Dale-Chall Score as well as the amount of difficult words.
 
